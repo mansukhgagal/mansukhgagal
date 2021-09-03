@@ -6,8 +6,8 @@ hi, i'm Mansukh Gagal, a passionate self-taught Android app developer and a free
 
 ## 📬 Get in touch
 
-- LinkedIn: [linkedin.com/in/mansukh-gagal-23302094/][2]
-- Twitter: [twitter.com/MansukhGagal][3]
+- LinkedIn: [linkedin.com/in/mansukh-gagal-23302094/](linkedin.com/in/mansukh-gagal-23302094/)[2]
+- Twitter: [twitter.com/MansukhGagal](twitter.com/MansukhGagal)[3]
 
 
 
