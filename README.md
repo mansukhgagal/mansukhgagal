@@ -6,8 +6,8 @@ hi, i'm Mansukh Gagal, a passionate self-taught Android app developer and a free
 
 ## 📬 Get in touch
 
-- LinkedIn: [linkedin.com/in/mansukh-gagal-23302094/](linkedin.com/in/mansukh-gagal-23302094/)[2]
-- Twitter: [twitter.com/MansukhGagal](twitter.com/MansukhGagal)[3]
+- LinkedIn: [linkedin.com/in/mansukh-gagal-23302094/][2]
+- Twitter: [twitter.com/MansukhGagal][3]
 
 
 
@@ -23,6 +23,8 @@ hi, i'm Mansukh Gagal, a passionate self-taught Android app developer and a free
 </a>
 
 
+[2]: https://www.linkedin.com/in/mansukh-gagal-23302094
+[3]: https://twitter.com/MansukhGagal
 <!--
 **mansukhgagal/mansukhgagal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
