@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-hi, i'm mg-ahir, a passionate self-taught Android app developer and a freelance software engineer from india. i take great care in the experience, architecture, and code quality of the things I build.
+hi, i'm mg-ahir, a passionate self-taught Android software engineer from india. i take great care in the experience, architecture, and code quality of the things I build.
 
 ## &#x1f4c8; My GitHub Stats
 
