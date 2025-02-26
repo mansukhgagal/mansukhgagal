@@ -2,14 +2,6 @@
 
 hi, i'm Mansukh Gagal, a passionate self-taught Android app developer and a freelance software engineer from india. i take great care in the experience, architecture, and code quality of the things I build.
 
-- reach to me, [email :)](mailto:mansukhgagal@gmail.com)
-
-## 📬 Get in touch
-
-- LinkedIn: [linkedin.com/in/mansukh-gagal-23302094/][2]
-- Twitter: [twitter.com/MansukhGagal][3]
-
-
 ## &#x1f4c8; My GitHub Stats
 
 <a href="https://github.com/mansukhgagal/mansukhgagal">
