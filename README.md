@@ -4,17 +4,16 @@ hi, i'm Mansukh Gagal, a passionate self-taught Android app developer and a free
 
 ## &#x1f4c8; My GitHub Stats
 
-<a href="https://github.com/mansukhgagal/mansukhgagal">
+<a href="https://github.com/mg-ahir/myprofile">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mansukhgagal&hide=java,html&title_color=000000&text_color=000000" />
 </a>
 
-<a href="https://github.com/mansukhgagal/mansukhgagal">
+<a href="https://github.com/mg-ahir/myprofile">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mansukhgagal&show_icons=true&line_height=27&count_private=true&title_color=000000&text_color=000000&icon_color=FAC051" alt="natterstefan's GitHub Stats" />
 </a>
 
 
-[2]: https://www.linkedin.com/in/mansukh-gagal-23302094
-[3]: https://twitter.com/MansukhGagal
+[2]: https://www.linkedin.com/in/mansukh-a-23302094/
 <!--
 **mansukhgagal/mansukhgagal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
